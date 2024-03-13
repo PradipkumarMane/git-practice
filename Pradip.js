@@ -1,2 +1,2 @@
-const a=50 
-console.log(a)
+const b=80 
+console.log(b)
